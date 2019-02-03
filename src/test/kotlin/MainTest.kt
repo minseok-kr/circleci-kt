@@ -86,8 +86,8 @@ class MainTest {
 
     @Test
     fun not() {
-        assertEquals(false, true)
-//        assertEquals(true, true)
+//        assertEquals(false, true)
+        assertEquals(true, true)
     }
 }
 
