@@ -78,7 +78,7 @@ class MainTest {
         calculator.result = 11F
 
         // when..
-        val result = calculator.reset()
+        calculator.reset()
 
         // then..
         assertEquals(0F, calculator.result)
