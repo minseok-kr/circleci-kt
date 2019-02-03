@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MainTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-02-03T17:26:50" hostname="Parkui-MacBook-Pro.local" time="0.004">
+<testsuite name="MainTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-02-03T17:44:55" hostname="Parkui-MacBook-Pro.local" time="0.005">
   <properties/>
   <testcase name="test_빼기" classname="MainTest" time="0.003"/>
   <testcase name="test_곱하기" classname="MainTest" time="0.0"/>
   <testcase name="test_나누기" classname="MainTest" time="0.0"/>
   <testcase name="test_더하기" classname="MainTest" time="0.0"/>
   <testcase name="test_값_비우기" classname="MainTest" time="0.0"/>
+  <testcase name="not" classname="MainTest" time="0.0"/>
   <testcase name="test_결과보기" classname="MainTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

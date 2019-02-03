@@ -83,5 +83,11 @@ class MainTest {
         // then..
         assertEquals(0F, calculator.result)
     }
+
+    @Test
+    fun not() {
+        assertEquals(false, true)
+//        assertEquals(true, true)
+    }
 }
 
