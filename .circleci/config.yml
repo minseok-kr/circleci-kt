@@ -33,6 +33,6 @@ jobs:
 
       - run:
           name: Run Unit Tests
-          command: gradle testDebugUnitTest
+          command: gradle test
 
 
