@@ -17,7 +17,7 @@ Simple Kotlin example with Unit Test, CircleCi for Continuous Integration .
 
 2. 임의의 커맨드를 작성할 수 있다.
 
-   ```yml
+   ```
    steps:
    	# Case 1.
    	- run: gradle test
