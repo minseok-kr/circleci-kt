@@ -35,4 +35,7 @@ jobs:
           name: Run Unit Tests
           command: gradle test
 
+      - store_test_results:
+                path: build/test-results
+
 
