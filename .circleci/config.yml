@@ -29,7 +29,6 @@ jobs:
 
       # run tests!
       - run: gradle test
-#      - run: gradle wrap
 
       - run:
           name: Run Unit Tests

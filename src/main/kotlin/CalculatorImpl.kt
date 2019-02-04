@@ -24,6 +24,6 @@ class CalculatorImpl : Calculator {
     }
 
     override fun reset() {
-        this.result = 0F
+//        this.result = 0F
     }
 }
